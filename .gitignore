@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# jupyter
+.ipynb_checkpoints/
+
+# data
+data/*.csv
+!data/calories_sample.csv   # sirf chhota sample rakho
+
+# OS
+.DS_Store
